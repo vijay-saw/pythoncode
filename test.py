@@ -1,1 +1,1 @@
-print("this is vijay code")
+print("This is vijay code")
